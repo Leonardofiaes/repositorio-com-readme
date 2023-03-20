@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README🚀
 
-<img src="./Earth motion.gif" alt="gif da tela">
+<img src="./Earth_motion.gif" alt="gif da tela">
 
 ## Tecnologias utilizadas
 - HTML
